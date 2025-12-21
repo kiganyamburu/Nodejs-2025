@@ -11,6 +11,7 @@ This project provides utility functions for Node.js applications, including rand
 - Random number generation (1-100)
 - CommonJS module structure
 - Reusable utility functions
+- Reusable utility functions
 
 ## Installation
 
